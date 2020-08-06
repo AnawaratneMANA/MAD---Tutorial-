@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAD_Tutorial_3</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="send">Send</string>
+    <string name="output"></string>
+</resources>

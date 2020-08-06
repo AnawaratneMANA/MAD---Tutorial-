@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_toast_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B8B2B2"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/custom_toast_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Sending Message"
+        android:src="@drawable/sendingmail" />
+
+    <TextView
+        android:id="@+id/custom_toast_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="To"
+        android:text="Sending Data Please Wait"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+</LinearLayout>
