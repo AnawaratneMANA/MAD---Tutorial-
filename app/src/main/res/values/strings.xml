@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DataHandlingTutorial</string>
+    <string name="btnSelect">select all</string>
+    <string name="btnSignIn">sign in</string>
+    <string name="btnAdd">add</string>
+    <string name="btnDelete">delete</string>
+    <string name="btnUpdate">Update</string>
+    <string name="lblUsername" />
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+</resources>
